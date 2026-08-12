@@ -1,4 +1,4 @@
-# Breach Trace — SOC Detection
+# Breach Trace: SOC Detection
 
 ## Overview
 
