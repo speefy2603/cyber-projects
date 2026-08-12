@@ -38,6 +38,6 @@ artefacts that can be used to reconstruct attacker activity.
 
 The following videos demonstrate the scripts being executed and the resulting forensic analysis:
 
-- Part 1 — Memory Analysis](https://youtu.be/Lapr0owxpyU)
-- Part 2 — Memory Analysis & Artefact Extraction](https://youtu.be/7eh6Y2GtQKE)
-- Part 3 — File Carving & Artefact Detection](https://youtu.be/2Z8l5nCmHVk)
+- Part 1 — Memory Analysis (https://youtu.be/Lapr0owxpyU)
+- Part 2 — Memory Analysis & Artefact Extraction (https://youtu.be/7eh6Y2GtQKE)
+- Part 3 — File Carving & Artefact Detection (https://youtu.be/2Z8l5nCmHVk)
