@@ -1,4 +1,4 @@
-# Breach Point — Penetration Testing
+# Breach Point: Penetration Testing
 
 ## Overview
 
