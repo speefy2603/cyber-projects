@@ -13,8 +13,9 @@ if [ ! -f "finder.dd" ]; then
 fi
 if [ ! -f "file.mem" ]; then
 	wget "https://cyberiumarena.com/lab/nx212/file_mem1.zip" >/dev/null 2>&1
+	unzip -o file_mem1.zip
+	rm -f file_mem1.zip
 fi
-rm -f file_mem1.zip
  
 #2.1 Check the current user; exit if not 'root'.
 echo "Reminder: Remove # from checkuser function if file is root."
