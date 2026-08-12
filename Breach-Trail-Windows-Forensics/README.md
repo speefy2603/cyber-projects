@@ -34,10 +34,10 @@ Designed for a controlled Kali Linux forensic lab.
 The scripts automate repetitive forensic tasks and produce
 artefacts that can be used to reconstruct attacker activity.
 
-## Demonstration
+## Project Demonstration
 
-The following videos demonstrate the scripts being executed and the resulting forensic analysis:
+A three-part demonstration of the Bash automation and forensic analysis performed in this project.
 
-- [Part 1 — Memory Analysis](https://youtu.be/Lapr0owxpyU)
-- [Part 2 — Memory Analysis & Artefact Extraction](https://youtu.be/7eh6Y2GtQKE)
-- [Part 3 — File Carving & Artefact Detection](https://youtu.be/2Z8l5nCmHVk)
+Memory Analysis | [Watch Part 1](https://youtu.be/Lapr0owxpyU)
+Memory Analysis & Artefact Extraction | [Watch Part 2](https://youtu.be/7eh6Y2GtQKE)
+File Carving & Artefact Detection | [Watch Part 3](https://youtu.be/2Z8l5nCmHVk)
