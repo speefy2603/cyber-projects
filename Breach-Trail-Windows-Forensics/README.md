@@ -22,8 +22,8 @@ commands, DLLs, hashes and Registry information.
 
 ## Project Files
 
-- `memory-analysis.sh`
-- `file-carving.sh`
+- `windows_forensics_memory_analysis.sh`
+- `windows_forensics_file_carving.sh`
 
 ## Environment
 
