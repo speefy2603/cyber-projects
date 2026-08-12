@@ -31,6 +31,8 @@ Generated attack activity and monitored the Elastic Stack to identify related se
 
 ## Demonstration
 
-The following video demonstrates the script execution, simulated attacks and resulting security alerts:
+The following videos demonstrate the project execution, simulated attacks, security monitoring and resulting alerts:
 
-- [Breach Trace — SOC Detection Demo](YOUR-YOUTUBE-LINK)
+- Part 1 — Setup & Attack Simulation (https://youtu.be/tGXVnm2_Fa8)
+- Part 2 — Alerting & Kibana (https://youtu.be/sAh-iKW6jFY)
+- Part 3 — Validation & Logging(https://youtu.be/fonS1VY_GV8)
