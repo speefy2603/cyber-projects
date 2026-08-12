@@ -28,7 +28,7 @@ Designed for a controlled penetration-testing lab using a Metasploitable VM. :co
 
 ## Results
 
-The script automates multiple stages of penetration testing and generates organised scan results, Metasploit resource files and payloads for controlled testing. :contentReference[oaicite:3]{index=3} :contentReference[oaicite:4]{index=4}
+The script automates multiple stages of penetration testing and generates organised scan results, Metasploit resource files and payloads for controlled testing.
 
 ## Demonstration
 
