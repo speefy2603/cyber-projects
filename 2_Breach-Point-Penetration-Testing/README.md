@@ -24,7 +24,7 @@ Built a Bash script to automate network scanning, weak credential testing, vulne
 
 ## Environment
 
-Designed for a controlled penetration-testing lab using a Metasploitable VM. :contentReference[oaicite:2]{index=2}
+Designed for a controlled penetration-testing lab using a Metasploitable VM.
 
 ## Results
 
