@@ -6,7 +6,7 @@ Automated penetration testing workflow for a controlled Metasploitable lab using
 
 ## What I Did
 
-Built a Bash script to automate network scanning, weak credential testing, vulnerability identification, Metasploit resource-file creation, payload generation and data exfiltration workflows. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
+Built a Bash script to automate network scanning, weak credential testing, vulnerability identification, Metasploit resource-file creation, payload generation and data exfiltration workflows. 
 
 ## Tools
 
