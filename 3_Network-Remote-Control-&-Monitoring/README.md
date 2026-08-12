@@ -27,3 +27,7 @@ Designed for a controlled Kali Linux and remote Ubuntu lab environment.
 ## Results
 
 Automated the identification of SSH hosts, credential testing and remote command execution, with the results recorded in a report for review.
+
+## Evidence
+
+Screenshots demonstrate the SSH discovery, credential testing, remote command execution and generated report.
