@@ -1,4 +1,4 @@
-# Breach Trail — Windows Forensics
+# Breach Trail: Windows Forensics
 
 ## Overview
 
