@@ -32,6 +32,8 @@ The script automates multiple stages of penetration testing and generates organi
 
 ## Demonstration
 
-The following video demonstrates the script being executed and the resulting penetration-testing workflow:
+The following videos demonstrate the script being executed and the resulting penetration-testing workflow:
 
-- [Breach Point — Penetration Testing Demo](YOUR-YOUTUBE-LINK)
+- Part 1 — Network Scanning (https://youtu.be/0DjmyCOcFsI)
+- Part 2 — Attack Paths & Metasploit Automation (https://youtu.be/TM49If0Ze48)
+- Part 3 — Payload Generation & Data Exfiltration (https://youtu.be/OpmtxPctZa0)
