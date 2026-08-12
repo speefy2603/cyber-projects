@@ -1,4 +1,4 @@
-# NetSys Mapper — Network Recon
+# NetSys Mapper: Network Recon
 
 ## Overview
 
